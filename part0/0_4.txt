@@ -1,0 +1,4 @@
+client sends the form containing the new note using POST, status 302
+server responds with the new page, first sending the DOM
+client requests notes data.json using GET, status 302
+server responds with notes which are rendered in the browser

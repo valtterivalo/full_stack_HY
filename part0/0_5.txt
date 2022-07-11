@@ -1,0 +1,4 @@
+client requests page content with GET, status 200
+server responds with aforementioned information
+client requests notes data.json with GET, status 200
+server responds with aforementioned information

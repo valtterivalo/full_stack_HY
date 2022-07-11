@@ -1,0 +1,2 @@
+user submits the data in the form using POST, status 201 (resource created)
+browser re-renders as per the js instructions, now displaying the newly created note
